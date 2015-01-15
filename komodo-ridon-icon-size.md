@@ -3,3 +3,9 @@
 * xhdpi 2x (~320 dpi) : 96px x 96px
 * xxhdpi 3x (~480 dpi) : 144px x 144px
 * xxxhdpi 4x (~640 dpi) : 192px x 192px 
+
+===Convert using inkscape on terminal
+
+`chmod 755 *.sh`
+`./convert-mdpi.sh`
+
